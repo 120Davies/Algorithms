@@ -3,7 +3,8 @@
 import sys
 
 def rock_paper_scissors(n):
-  pass 
+    rps = ["rock", "paper", "scissors"]
+    return[[rps[i] for i in nu]
 
 
 if __name__ == "__main__":
